@@ -1,0 +1,11 @@
+L2TP vpn achter een NAT
+
+
+
+https://support.microsoft.com/en-us/kb/926179
+
+
+ocate and then click the following registry subkey:
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PolicyAgent
+Note You can also apply the
+AssumeUDPEncapsulationContextOnSendRule     value 2
